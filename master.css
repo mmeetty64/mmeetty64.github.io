@@ -82,6 +82,13 @@ display: flex;
 justify-content: center;
 color: white;
 }
+.GT3000 h1 {
+font-size: 90px;
+margin: 50px;
+display: flex;
+justify-content: center;
+color: white;
+}
 .navigation {
 display: flex;
 justify-content: center;

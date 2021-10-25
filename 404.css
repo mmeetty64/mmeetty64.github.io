@@ -1,0 +1,28 @@
+@font-face {
+
+font-family: 'Cuprum';
+
+src: url('fonts/Cuprum-Regular.ttf') format('truetype');
+}
+body {
+	font-family: Cuprum;
+	align-items: center;
+	background-color: #f5f5f5;
+	display: flex;
+	min-height: 100vh;
+	justify-content: center;
+	margin: 0;
+background-image: url(images/fon.jpg);}
+	
+.container {
+	text-align: center;
+color: white;}
+	
+.container h1 {
+	font-size: 8rem;
+	letter-spacing: 10px;
+	margin: 0;}
+	
+.container h4 {
+	font-size: 1.25rem;
+	font-weight: 300;}

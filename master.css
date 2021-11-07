@@ -147,6 +147,13 @@ text-decoration: none;
     float: left;
     font-size: 34px;
 }
+.text_salon {
+    float: left;
+    font-size: 34px;
+}
+.text_salon article {
+  margin-top: 15px;
+}
 /*GALLERY*/
 .boss-gall {
 max-width: 1500px;

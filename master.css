@@ -170,6 +170,12 @@ border: 6px solid white;
 .gal-img img {
 height: 440px;
 }
+.wrapper_gal{
+  max-width: 1500px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
 /* FOOTER*/
 footer {
 	background-color: #3b3b3b;

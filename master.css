@@ -203,7 +203,16 @@ iframe {
 height: 440px;
 width: 725.5px;   
 }
-
+.button_vk img{
+    width: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.social_group{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
 
 
 

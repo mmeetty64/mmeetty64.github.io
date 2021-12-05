@@ -6,8 +6,8 @@ src: url('fonts/Cuprum-Regular.ttf') format('truetype');
 }
 
 body {
-	font-family: Cuprum;
-	margin: 0 auto; 
+  font-family: Cuprum;
+  margin: 0 auto; 
   background-image: url(images/fon.jpg);
 }
 header {
@@ -154,6 +154,17 @@ text-decoration: none;
 .text_salon article {
   margin-top: 15px;
 }
+.internal_links {
+display: flex;
+justify-content: center;
+margin: 0 auto;  
+}
+.sled {
+  margin-right: 30px;
+  font-size: 26px;
+  margin-left: 30px;
+  margin-top: 20px;
+}
 /*GALLERY*/
 .boss-gall {
 max-width: 1500px;
@@ -178,7 +189,7 @@ height: 440px;
 
 /* FOOTER*/
 footer {
-	background-color: #3b3b3b;
+  background-color: #3b3b3b;
 }
 .button_vk img{
     width: 60px;
@@ -191,14 +202,14 @@ footer {
     justify-content: center;
 }
 .copyright {
-	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	background-color: #3b3b3b;
-	color: #FFFFFF;
-	font-weight: lighter;
-	letter-spacing: 5px;
-	border-top-width: 2px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #3b3b3b;
+  color: #FFFFFF;
+  font-weight: lighter;
+  letter-spacing: 5px;
+  border-top-width: 2px;
 }
 button {
   display: flex;
@@ -213,7 +224,3 @@ iframe {
 height: 440px;
 width: 725.5px;   
 }
-
-
-
-

@@ -224,3 +224,26 @@ iframe {
 height: 440px;
 width: 725.5px;   
 }
+/*socialgroup*/
+.word_group {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.word_group h1 {
+  color: white;
+}
+.podelitca_group {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.podelitca_group h1 {
+  color: black;
+  font-size: 40px;
+}
+.podelitca{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
